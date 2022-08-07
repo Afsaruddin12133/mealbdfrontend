@@ -7,6 +7,7 @@ function App() {
       <h2>
         how are you?
       </h2>
+      <h2>who are you i cannot recognize you so please chek you life</h2>
     </div>
   );
 }
